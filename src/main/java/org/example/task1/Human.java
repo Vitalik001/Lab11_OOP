@@ -1,4 +1,4 @@
-package org.example;
+package org.example.task1;
 
 import lombok.ToString;
 import lombok.experimental.SuperBuilder;
